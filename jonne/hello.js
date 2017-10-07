@@ -1,4 +1,5 @@
-function g(name)
+function F(name)
 {
 	this.name=name;
+	
 }
